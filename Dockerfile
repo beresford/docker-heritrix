@@ -1,6 +1,6 @@
 # HERITRIX
 
-FROM java
+FROM java:oracle-java6
 
 MAINTAINER chris@cbeer.info
 
